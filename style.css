@@ -1,0 +1,33 @@
+body{
+    font-family: 'Manrope', sans-serif;
+    background: rgb(153, 143, 247);
+    }
+    .header_div{
+    background: rgb(16, 66, 191);
+    color: rgb(3, 229, 178);
+    }
+    .header_div p{
+    font-family: 'Manrope', sans-serif;
+    color:rgb(91, 16, 45);
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+    }
+    .main_div button{
+    font-family: 'Manrope', sans-serif;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+    }
+    .copy_right_footer{
+    position: fixed;
+    color: rgb(36, 49, 31);
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color:rgb(74, 35, 255);
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(44, 45, 190);
+    }
